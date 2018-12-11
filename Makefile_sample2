@@ -1,0 +1,5 @@
+# by default make execute first one
+all:
+	
+comile:
+	g++ main.cpp function1.cpp function2.cpp -o hello
