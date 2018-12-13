@@ -9,3 +9,5 @@ using Makefile
 ```
 make
 ```
+# Cmakelist.txt
+https://stackoverflow.com/questions/47162766/how-to-write-cmakelists-txt-for-a-big-project-with-mutiple-subdirectories
